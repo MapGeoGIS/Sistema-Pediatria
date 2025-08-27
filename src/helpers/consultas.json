@@ -1,0 +1,101 @@
+[
+  {
+    "id_consulta": "c1c9f3d4-1a2b-4e34-a3d1-1f8f19db5a01",
+    "id_paciente": "00b5eb1f-49bb-4efc-934f-53897536f49f",
+    "fecha_consulta": "2024-03-15 10:25:00",
+    "peso_kg": 32.5,
+    "talla_cm": 140,
+    "perimetro_cefalico": 53.2,
+    "motivo_consulta": "Dolor de garganta",
+    "conducta": "Indicar reposo y analgésicos",
+    "created_at": "2024-03-15 10:30:00"
+  },
+  {
+    "id_consulta": "b7810c2f-7b16-4fd4-a2b0-14270a72cb94",
+    "id_paciente": "00b5eb1f-49bb-4efc-934f-53897536f49f",
+    "fecha_consulta": "2024-09-02 09:45:00",
+    "peso_kg": 34.1,
+    "talla_cm": 142,
+    "perimetro_cefalico": 53.5,
+    "motivo_consulta": "Control anual",
+    "conducta": "Continuar con alimentación saludable",
+    "created_at": "2024-09-02 09:50:00"
+  },
+  {
+    "id_consulta": "a6c2b4a1-3a45-4c7a-9c52-5c7a92d6e3f0",
+    "id_paciente": "9a4c8fa9-922f-4ae0-bb81-298391f0a095",
+    "fecha_consulta": "2024-02-20 14:15:00",
+    "peso_kg": 28.9,
+    "talla_cm": 135,
+    "perimetro_cefalico": 52.0,
+    "motivo_consulta": "Fiebre y tos",
+    "conducta": "Indicar antibiótico y reposo",
+    "created_at": "2024-02-20 14:20:00"
+  },
+  {
+    "id_consulta": "6d2c134e-6a6a-4212-b8a4-22c182f99df2",
+    "id_paciente": "9a4c8fa9-922f-4ae0-bb81-298391f0a095",
+    "fecha_consulta": "2024-07-11 11:05:00",
+    "peso_kg": 30.2,
+    "talla_cm": 137,
+    "perimetro_cefalico": 52.3,
+    "motivo_consulta": "Control posinfección",
+    "conducta": "Apto para actividad física",
+    "created_at": "2024-07-11 11:10:00"
+  },
+  {
+    "id_consulta": "eafdbf8c-b25b-4f45-9d21-92df77c75a9f",
+    "id_paciente": "d6becfdf-fc41-4a24-910b-84b69a73e5c1",
+    "fecha_consulta": "2024-05-08 16:40:00",
+    "peso_kg": 36.0,
+    "talla_cm": 145,
+    "perimetro_cefalico": 54.0,
+    "motivo_consulta": "Dolor de oído",
+    "conducta": "Indicar gotas óticas y reposo",
+    "created_at": "2024-05-08 16:45:00"
+  },
+  {
+    "id_consulta": "f2c7e132-3b57-4de3-882a-5f1a5cfcd31d",
+    "id_paciente": "38186721-bc64-40ea-877d-553d40b55d27",
+    "fecha_consulta": "2024-06-12 09:20:00",
+    "peso_kg": 18.5,
+    "talla_cm": 105,
+    "perimetro_cefalico": 50.2,
+    "motivo_consulta": "Vacunación",
+    "conducta": "Aplicar vacunas según calendario",
+    "created_at": "2024-06-12 09:25:00"
+  },
+  {
+    "id_consulta": "2b8d9c0a-1425-45b0-87cf-31870d16d5b8",
+    "id_paciente": "9eb5dfb4-9ebe-4d14-84d8-32c9da49cb5c",
+    "fecha_consulta": "2024-08-18 15:40:00",
+    "peso_kg": 26.7,
+    "talla_cm": 125,
+    "perimetro_cefalico": 51.1,
+    "motivo_consulta": "Control anual",
+    "conducta": "Reforzar higiene dental",
+    "created_at": "2024-08-18 15:45:00"
+  },
+  {
+    "id_consulta": "f03ec98a-9138-4f23-a38f-7a4d1dcab301",
+    "id_paciente": "f3387b25-30b8-4110-8aa6-18b9ff8337ca",
+    "fecha_consulta": "2024-10-04 11:15:00",
+    "peso_kg": 20.4,
+    "talla_cm": 110,
+    "perimetro_cefalico": 49.8,
+    "motivo_consulta": "Consulta por alergia",
+    "conducta": "Indicar antialérgico",
+    "created_at": "2024-10-04 11:20:00"
+  },
+  {
+    "id_consulta": "11b9b36b-cf24-4a76-a91f-244f70a5c8b4",
+    "id_paciente": "d91c1d22-40dd-4652-b765-38afdc1859dc",
+    "fecha_consulta": "2024-11-19 14:00:00",
+    "peso_kg": 22.3,
+    "talla_cm": 115,
+    "perimetro_cefalico": 50.5,
+    "motivo_consulta": "Dolor abdominal",
+    "conducta": "Indicar dieta blanda",
+    "created_at": "2024-11-19 14:05:00"
+  }
+]
